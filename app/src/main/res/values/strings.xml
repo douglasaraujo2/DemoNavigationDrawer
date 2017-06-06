@@ -5,4 +5,15 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="valor1">Valor</string>
+    <string name="hint_valor_1">Digite o Valor 1</string>
+    <string name="valor2">Valor 2</string>
+    <string name="hint_valor_2">Digite o valor 2</string>
+    <string name="button_mais">+</string>
+    <string name="button_menos">-</string>
+    <string name="button_vezes">*</string>
+    <string name="button_dividir">/</string>
+    <string name="tvresultado">Resultado</string>
 </resources>
